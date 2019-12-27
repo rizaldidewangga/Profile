@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="BirthofDate">Tanggal Lahir</string>
+    <string name="Followers">Pengikut</string>
+    <string name="Following">Mengikuti</string>
+    <string name="Likes">Suka</string>
+    <string name="Phone">Telepon</string>
+</resources>
